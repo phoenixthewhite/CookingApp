@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "102440841247",
+    "firebase_url": "https://cooking-7e7b1.firebaseio.com",
+    "project_id": "cooking-7e7b1",
+    "storage_bucket": "cooking-7e7b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102440841247:android:6ba4152b58ab809b",
+        "android_client_info": {
+          "package_name": "com.vnshine.phoenix.cooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102440841247-lmgo8iuv6i4vqg3ig92u29hqsgaffci4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vnshine.phoenix.cooking",
+            "certificate_hash": "0a5de2d009979902c083187009c75219ac7c31f1"
+          }
+        },
+        {
+          "client_id": "102440841247-2uhbji13bakvnvu6ecf2jqj8o8aei2b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr1TtkRtI5BdD6QkQdRZ5zWz_aER9GTRQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102440841247-2uhbji13bakvnvu6ecf2jqj8o8aei2b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

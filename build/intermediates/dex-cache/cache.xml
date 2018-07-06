@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\3ffb90c9a2a009cc2ee75b76196644529b4b0b50\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_03e4f03bbd4526a3e6ff10d48d1c91758f55b915.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_b0180bdecb7fc530aff3846b04f23af9c4642f69\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\6853978019b3e19a7818ce4bb28e7738c17c91ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_c6ed1ab4cbe25e682538076d05c80bfdeb04f814.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\51df83492f08d91960fef5c78008e3686e1c6ec7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a351bccbfeaff371292b4985bbb9daf9500da381\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\55dca7e2ac4edc3fca896153ffea6d2e4151a0ff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f89000a4d8292000532c2625cb048575e8efb20d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\fbb6e5fc0d9468463c4eda0ad92f069202fde51c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e973dd8a352b5af91d8bc7303acb37cc6c723d36\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\29cc317f9e1544045cb9008cb12044f4dc56e8e6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_6d77a73ed676e854dc2379b6a8199bc754ccd6aa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\581010e7ce48b33838132bc23408bba3bf313c50\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cee663035d637760e885a10a37d68d169b299f45\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\887570a2ffe9dff6c04e1b97ccb54477ff6862a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_c613deda30420fcb0a62e95425df0a80393f7b00.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\e6d4fa027fb593cac7fc04fb7209223e8583ce52\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_98db91db171366bade340e4b2c29313ca4dbe965\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\eb9866c3e528f5c7eb5c339216a83c1cc949e355\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_528b0f7f8d3269a5a73d1ea3c64d83bf08a5d01a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\65a232225890343fc08dca9683db0323707d8854\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_0707610a98b9345762825772e0740e4fd5b94ff5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\dc4e3201f95c66745c4078c5dd752663043b968c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e70a3fed299d84cd868614e11021664d72b8e488">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_f3a8e441abddddad7f97f107eb6f224f77809a33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Programs\Android\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_1bd10f23895db10b45a60872451ee4c561023a5a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\48ec6f0140fb58d758a3f05530b8eee37c258c7e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b3b9a93b05e0ae79aaf0e4939c00dccaa6ba1370\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_21fb357ed90d8096e2d196350290147f2d51aef5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\313a925395ad2a85454c45f3f0afeff80f7dcc49\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_d8f150f62f189695ba0d7a5661660ee898f1df07.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\edcef7d7f1535ec3e5e84f165046ba4cac1ef8f7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d7816314a818299d0ccc7d9031439be83eb94ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\66165f6b0ca19c169f5f049ed2eb6c68e74fa6ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_4caa563b2480c7cedf0baf41388c0c284338ce1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\9dd0635e8b37fdccb3feaa50160ca8970721694c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_8448913e784f99ffcfa4f3ca2c4cbb8e32e204cb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\6aaa02287141465eab0d5c26906b5c877a753cc4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d80988954175b3dce73f03e8dc4654bcc9a0263\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\aeab789a21f0b19839ad092359608dcb61d35f50\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_23a2cbaa4523dddbe7f1076e5c3f8a35f0254e5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_749f3fb3c97b6d4da710f467650604d7c1ac6dd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_2c94cefeb769f92da3526e402f31be236ddd453f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\357017016b5a95b7638541f44a5565ddd5b1a937\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_528aa68a2ea494c1896e23aad8bdf609c27f372b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\719350d7c73548249b40da038e18593807661508\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f134bdbc66bc24db7f6529e13abc53ac5d9325d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\da3d69b20be2ea51452295c71632bbeecb962131\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_86ab6d61104cddfb1a168ded3cdd3f1263ee89fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\71986d42349257c5d7c4d372a1be95712849d3da\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="14889e022db94047ceadff1cf5e7984139a4eb8e">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e04e3ffe4dab609f5152e892d79d8898fc8ede8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\ab16a912143840b3ecc6cb66d4bd8fb58a5b1f60\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_2e4b89743c615f81642bb81f7e7f03f0ded9c80d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\17f432ee1834300c399a0d4c668fcac5f1d969d5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_bbef29ac3ce435af53cc3431be305bca21b474e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\1b6cdbf2507f6b9f7bfacf73ebfa371a680243be\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_909913b528ae2a80d2c24580236ad8cd5be972b7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\417bc2937a936e5d35c72d2478137c5aa72b058a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3b58159d8f18026c4d4a2510fe74072766ed4823\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\37e67845540eda20b67b21482bde9ff855f941f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_b02034dba938c4f1b6358a6733329fe50e9697a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\48ba69232b02e81bbe9e1c691c0f003c1c18b5bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_842d2b3dccadd54913e4c6df6bba64b880721e5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\8a64e35af011f5f87f7689253bc50a6d28e57a88\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_ae3aa6369a40250b7914ff6acd616aa3a1ec29e5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\e986e2be0f86fbfb12f2926d5f4967be2e5bef4b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d21f473023ad62446ac448ec70899aea5a698f8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\3cfeb73a55e0b0e504ce8f9736697e5f7474933c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_b34c0af886febb63a979691ceefb4c04143bede7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\6853978019b3e19a7818ce4bb28e7738c17c91ff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c6ed1ab4cbe25e682538076d05c80bfdeb04f814\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\common-1.0.0_b0180bdecb7fc530aff3846b04f23af9c4642f69.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Programs\Android\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_1bd10f23895db10b45a60872451ee4c561023a5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\29cc317f9e1544045cb9008cb12044f4dc56e8e6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6d77a73ed676e854dc2379b6a8199bc754ccd6aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\887570a2ffe9dff6c04e1b97ccb54477ff6862a2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c613deda30420fcb0a62e95425df0a80393f7b00\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\51df83492f08d91960fef5c78008e3686e1c6ec7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_a351bccbfeaff371292b4985bbb9daf9500da381.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\fbb6e5fc0d9468463c4eda0ad92f069202fde51c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_e973dd8a352b5af91d8bc7303acb37cc6c723d36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\55dca7e2ac4edc3fca896153ffea6d2e4151a0ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_f89000a4d8292000532c2625cb048575e8efb20d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\581010e7ce48b33838132bc23408bba3bf313c50\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_cee663035d637760e885a10a37d68d169b299f45.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\dc4e3201f95c66745c4078c5dd752663043b968c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e70a3fed299d84cd868614e11021664d72b8e488">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f3a8e441abddddad7f97f107eb6f224f77809a33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\65a232225890343fc08dca9683db0323707d8854\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0707610a98b9345762825772e0740e4fd5b94ff5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\eb9866c3e528f5c7eb5c339216a83c1cc949e355\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_528b0f7f8d3269a5a73d1ea3c64d83bf08a5d01a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\48ec6f0140fb58d758a3f05530b8eee37c258c7e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_b3b9a93b05e0ae79aaf0e4939c00dccaa6ba1370.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\6a87631b530e0f773de1de47546ec07cafd3cf68\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_99c3a5d945c4aa8b33f5f0529d841ff085e4670e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\common-1.0.0_21fb357ed90d8096e2d196350290147f2d51aef5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\e6d4fa027fb593cac7fc04fb7209223e8583ce52\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_98db91db171366bade340e4b2c29313ca4dbe965.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\357017016b5a95b7638541f44a5565ddd5b1a937\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_528aa68a2ea494c1896e23aad8bdf609c27f372b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\66165f6b0ca19c169f5f049ed2eb6c68e74fa6ce\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4caa563b2480c7cedf0baf41388c0c284338ce1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\6a87631b530e0f773de1de47546ec07cafd3cf68\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_99c3a5d945c4aa8b33f5f0529d841ff085e4670e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\e986e2be0f86fbfb12f2926d5f4967be2e5bef4b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_d21f473023ad62446ac448ec70899aea5a698f8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\edcef7d7f1535ec3e5e84f165046ba4cac1ef8f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_7d7816314a818299d0ccc7d9031439be83eb94ac.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\313a925395ad2a85454c45f3f0afeff80f7dcc49\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d8f150f62f189695ba0d7a5661660ee898f1df07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\37e67845540eda20b67b21482bde9ff855f941f2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b02034dba938c4f1b6358a6733329fe50e9697a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\719350d7c73548249b40da038e18593807661508\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_f134bdbc66bc24db7f6529e13abc53ac5d9325d3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.1.0_2c94cefeb769f92da3526e402f31be236ddd453f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\ab16a912143840b3ecc6cb66d4bd8fb58a5b1f60\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2e4b89743c615f81642bb81f7e7f03f0ded9c80d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\71986d42349257c5d7c4d372a1be95712849d3da\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="14889e022db94047ceadff1cf5e7984139a4eb8e">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_3e04e3ffe4dab609f5152e892d79d8898fc8ede8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\6aaa02287141465eab0d5c26906b5c877a753cc4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_4d80988954175b3dce73f03e8dc4654bcc9a0263.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_749f3fb3c97b6d4da710f467650604d7c1ac6dd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\aeab789a21f0b19839ad092359608dcb61d35f50\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_23a2cbaa4523dddbe7f1076e5c3f8a35f0254e5b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3b724f81f1e70293882379b273e2c3789c4bd91c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\da3d69b20be2ea51452295c71632bbeecb962131\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_86ab6d61104cddfb1a168ded3cdd3f1263ee89fa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\9dd0635e8b37fdccb3feaa50160ca8970721694c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8448913e784f99ffcfa4f3ca2c4cbb8e32e204cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\3cfeb73a55e0b0e504ce8f9736697e5f7474933c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b34c0af886febb63a979691ceefb4c04143bede7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\17f432ee1834300c399a0d4c668fcac5f1d969d5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bbef29ac3ce435af53cc3431be305bca21b474e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BD PC\.android\build-cache\417bc2937a936e5d35c72d2478137c5aa72b058a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\pre-dexed\debug\classes_3b58159d8f18026c4d4a2510fe74072766ed4823.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="343b09c8e1856291d2b0799498cbc875b3c9437a">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f8138bf0c828336ecfa148f7165b7cbe8fa23ef7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\48ba69232b02e81bbe9e1c691c0f003c1c18b5bc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_842d2b3dccadd54913e4c6df6bba64b880721e5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\8a64e35af011f5f87f7689253bc50a6d28e57a88\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae3aa6369a40250b7914ff6acd616aa3a1ec29e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\1b6cdbf2507f6b9f7bfacf73ebfa371a680243be\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_909913b528ae2a80d2c24580236ad8cd5be972b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BD PC\.android\build-cache\3ffb90c9a2a009cc2ee75b76196644529b4b0b50\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="E:\Programs\Android\Projects\CookingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03e4f03bbd4526a3e6ff10d48d1c91758f55b915\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/title_frag_1" />
+        <item
+            android:id="@+id/nav_stew"
+            android:icon="@drawable/mn_kho"
+            android:title="@string/title_frag_2" />
+        <item
+            android:id="@+id/nav_soup"
+            android:icon="@drawable/mn_canh"
+            android:title="@string/title_frag_3" />
+        <item
+            android:id="@+id/nav_fried"
+            android:icon="@drawable/mn_xao"
+            android:title="@string/title_frag_4" />
+        <item
+            android:id="@+id/nav_cake"
+            android:icon="@drawable/mn_banh"
+            android:title="@string/title_frag_5" />
+    </group>
+
+
+
+</menu>
+<!--<item android:title="Communicate">-->
+<!--<menu>-->
+    <!--<item-->
+        <!--android:id="@+id/nav_share"-->
+        <!--android:icon="@drawable/ic_menu_share"-->
+        <!--android:title="Share" />-->
+    <!--<item-->
+        <!--android:id="@+id/nav_send"-->
+        <!--android:icon="@drawable/ic_menu_send"-->
+        <!--android:title="Send" />-->
+<!--</menu>-->
+<!--</item>-->

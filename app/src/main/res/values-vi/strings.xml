@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Món ngon mỗi ngày</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_frag_1">Trang chủ</string>
+    <string name="title_frag_2">Món kho</string>
+    <string name="title_frag_3">Món canh</string>
+    <string name="title_frag_4">Món chiên, xào</string>
+    <string name="title_frag_5">Món bánh</string>
+    <string name="suggested">Thực đơn đề xuất hôm nay</string>
+    <string name="version">Phiên bản 1.0</string>
+    <string name="dev">Phát triển bởi Phoenix</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-9164465649979150/5444762670</string>
+
+</resources>
